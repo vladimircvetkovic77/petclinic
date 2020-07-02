@@ -30,4 +30,5 @@ public class Person extends BaseEntity {
     @Column(name = "last_name")
     private String lastName;
 
+
 }
